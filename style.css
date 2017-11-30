@@ -27,7 +27,6 @@ li {
 }
 
 main {
-  margin: 0 auto;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -44,12 +43,22 @@ main {
   font-size: 40px;
   text-align: justify;
 }
+.gitHub img{
+  height: 15%;
+  width: 15%;
+  
+}
+.linkedIn img{
+  height: 5%;
+  width: 5%;
+}
 
 footer {
   color: white;
   display: flex;
+  flex-direction: row;
   justify-content: center;
-  align-items: flex-end;
+  align-items: center;
 }
 footer a {
   color: white;
