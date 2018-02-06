@@ -1,6 +1,10 @@
+body {
+  font-family: 'Amatic SC', cursive;
+}
 nav ul a,
 nav .brand-logo {
-  color: rgb(235, 14, 14);
+  color: rgb(90, 11, 19);
+  
 }
 
 p {
@@ -63,4 +67,27 @@ footer.page-footer {
   top: 50%;
   left: 50%;
   transform: translate(350%, 360%);
+}
+
+#sticky-nav {
+  position: relative;
+}
+
+#nav-header img {
+  height: 60px;
+}
+
+.logo-font {
+  font-family: 'Amatic SC', cursive;
+}
+
+.project-title {
+  font-size: 40px;
+}
+
+.project-body {
+  font-size: 20px;
+}
+.title {
+  font-size: 50px;
 }
