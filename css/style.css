@@ -4,7 +4,7 @@ body {
 nav ul a,
 nav .brand-logo {
   color: rgb(90, 11, 19);
-  
+  font-size: 20px;
 }
 
 p {
@@ -86,8 +86,21 @@ footer.page-footer {
 }
 
 .project-body {
-  font-size: 20px;
+  font-size: 30px;
 }
+
 .title {
   font-size: 50px;
+}
+
+.dev {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.dev-right {
+  position: absolute;
+  left: 2%;
 }
