@@ -94,6 +94,10 @@ footer.page-footer {
   font-size: 50px;
 }
 
+.header-title {
+  font-size: 90px;
+}
+
 .dev {
   position: absolute;
   top: 50%;
@@ -105,3 +109,4 @@ footer.page-footer {
   position: absolute;
   left: 10%;
 }
+
