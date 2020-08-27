@@ -110,3 +110,14 @@ footer.page-footer {
   left: 10%;
 }
 
+/* Notification */
+.notification {
+  width: 100%;
+  background-color: rgb(240,128,128);
+  color: black;
+  text-align: center;
+}
+.new_link{
+  color: black;
+  text-decoration:underline;
+}
